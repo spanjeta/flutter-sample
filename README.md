@@ -34,6 +34,8 @@ Flutter plugin for launching a URL on Android and iOS.
 Package to provides a concrete way of generating files using Dart code, outside of tools like `pub server/build`, files are always generated directly on disk, and rebuilds are *incremental-* inspired by tools such as Bazel.
 
 
+
+
  * @copyright : ToXSL Technologies Pvt. Ltd. < www.toxsl.com >
  * @author     : Shiv Charan Panjeta < shiv@toxsl.com >
  * All Rights Reserved.
